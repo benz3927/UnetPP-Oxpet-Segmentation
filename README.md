@@ -147,7 +147,8 @@ ls -lh outputs/checkpoints/
 
 ### Qualitative Results
 
-![Sample Predictions](test_comparison_grid.png)
+<img src="test_comparison_grid.png" alt="Sample Predictions" width="600">
+
 *Sample predictions on test set. From left to right: Input image, Ground truth, Model prediction (with attention). Colors: Red=Pet, Green=Background, Blue=Border.*
 
 ### Ablation Study
