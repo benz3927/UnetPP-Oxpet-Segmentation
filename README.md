@@ -147,7 +147,7 @@ ls -lh outputs/checkpoints/
 
 ### Qualitative Results
 
-<img src="test_comparison_grid.png" alt="Sample Predictions" width="200">
+<img src="test_comparison_grid.png" alt="Sample Predictions" width="300">
 
 *Sample predictions on test set. From left to right: Input image, Ground truth, Model prediction (with attention). Colors: Red=Pet, Green=Background, Blue=Border.*
 
