@@ -256,7 +256,7 @@ The trained model checkpoint (`best_model.ckpt`) is too large for GitHub (~500MB
   title = {UNet++ with Hybrid Loss and CBAM Attention for Pet Segmentation},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/bzhao3927/UnetPP-Oxpet-Segmentation}
+  url = {https://github.com/benz3927/UnetPP-Oxpet-Segmentation}
 }
 ```
 
