@@ -12,7 +12,7 @@ Deep learning project implementing UNet++ with deep supervision, hybrid loss fun
 
 ```bash
 # 1. Clone and setup
-git clone https://github.com/bzhao3927/UnetPP-Oxpet-Segmentation.git
+git clone https://github.com/benz3927/UnetPP-Oxpet-Segmentation.git
 cd UnetPP-Oxpet-Segmentation
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
@@ -54,7 +54,7 @@ UNet++ implementation with three key improvements:
 
 ```bash
 # Clone repository
-git clone https://github.com/bzhao3927/UnetPP-Oxpet-Segmentation.git
+git clone https://github.com/benz3927/UnetPP-Oxpet-Segmentation.git
 cd UnetPP-Oxpet-Segmentation
 
 # Create environment and install
