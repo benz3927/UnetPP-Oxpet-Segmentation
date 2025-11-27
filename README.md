@@ -12,8 +12,8 @@ Deep learning project implementing UNet++ with deep supervision, hybrid loss fun
 
 ```bash
 # 1. Clone and setup
-git clone https://github.com/bzhao3927/Deep-Learning.git
-cd Deep-Learning/Assignment2
+git clone https://github.com/bzhao3927/UnetPP-Oxpet-Segmentation.git
+cd UnetPP-Oxpet-Segmentation
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
@@ -54,8 +54,8 @@ UNet++ implementation with three key improvements:
 
 ```bash
 # Clone repository
-git clone https://github.com/bzhao3927/Deep-Learning.git
-cd Deep-Learning/Assignment2
+git clone https://github.com/bzhao3927/UnetPP-Oxpet-Segmentation.git
+cd UnetPP-Oxpet-Segmentation
 
 # Create environment and install
 python -m venv .venv
@@ -192,7 +192,7 @@ Channel and spatial attention modules in the decoder enable adaptive feature ref
 ## Project Structure
 
 ```
-Assignment2/
+UnetPP-Oxpet-Segmentation/
 ├── README.md
 ├── requirements.txt
 ├── report.pdf
@@ -256,7 +256,7 @@ The trained model checkpoint (`best_model.ckpt`) is too large for GitHub (~500MB
   title = {UNet++ with Hybrid Loss and CBAM Attention for Pet Segmentation},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/bzhao3927/Deep-Learning/tree/main/Assignment2}
+  url = {https://github.com/bzhao3927/UnetPP-Oxpet-Segmentation}
 }
 ```
 
