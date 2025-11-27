@@ -145,6 +145,11 @@ ls -lh outputs/checkpoints/
 | Border | 60.95 | 75.74 |
 | **Mean** | **80.94** | **88.73** |
 
+### Qualitative Results
+
+![Sample Predictions](test_comparison_grid.png)
+*Sample predictions on test set. From left to right: Input image, Ground truth, Model prediction (with attention). Colors: Red=Pet, Green=Background, Blue=Border.*
+
 ### Ablation Study
 
 | Configuration | Val mIoU (%) | Test mIoU (%) |
